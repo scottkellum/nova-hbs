@@ -1,0 +1,14 @@
+{
+  "name": "Vue.novaextension",
+  "version": "4.0.0",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {
+    "": {
+      "version": "4.0.0",
+      "dependencies": {
+        "vls": "^0.5.7"
+      }
+    }
+  }
+}
