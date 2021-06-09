@@ -1,0 +1,12 @@
+{
+  "identifier": "scottkellum.Hbs",
+  "name": "Handlebars",
+  "organization": "Scott Kellum",
+  "description": "A kinda bad not very good syntax highlighting plugin for for .hbs files.",
+  "version": "1.0.0",
+  "repository": "https://github.com/scottkellum/nova-hbs",
+  "bugs": "https://github.com/scottkellum/nova-hbs/issues",
+  "license": "MIT",
+  "categories": ["languages", "completions"],
+  "main": "main.dist.js"
+}
